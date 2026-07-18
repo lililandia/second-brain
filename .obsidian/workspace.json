@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/argo.md",
+                "file": "Universita/Disturbi del Neurosviluppo/Esercizi/fattori_protettivi_quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "argo"
+              "title": "fattori_protettivi_quiz"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "728eb33a58cbdf38",
   "lastOpenFiles": [
+    "Universita/Disturbi del Neurosviluppo/Fattori Protettivi.md",
     "Universita/argo.md",
     "Universita"
   ]
