@@ -1,0 +1,730 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 24,
+    "emojiStyle": "twemoji",
+    "iconColor": "#383838",
+    "recentlyUsedIcons": [
+      "FabNode",
+      "LiCloud",
+      "SiTodoist"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "@ Concepts",
+        "icon": "FasLightbulb",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "ADC",
+        "icon": "SiCoursera",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "Advanced",
+        "icon": "FasArrowUpWideShort",
+        "for": "everything",
+        "order": 2
+      },
+      {
+        "rule": "Algorithm",
+        "icon": "RiShape2Line",
+        "for": "everything",
+        "order": 4
+      },
+      {
+        "rule": "Articles",
+        "icon": "RiArticleLine",
+        "for": "everything",
+        "order": 5
+      },
+      {
+        "rule": "Attachment",
+        "icon": "RiAttachment2",
+        "for": "everything",
+        "order": 6
+      },
+      {
+        "rule": "Bash",
+        "icon": "RiCommandLine",
+        "for": "everything",
+        "order": 7
+      },
+      {
+        "rule": "Basic",
+        "icon": "LiBaseline",
+        "for": "everything",
+        "order": 8
+      },
+      {
+        "rule": "Best Practices",
+        "icon": "FasFaceGrinBeamSweat",
+        "for": "everything",
+        "order": 9
+      },
+      {
+        "rule": "Books",
+        "icon": "FasBook",
+        "for": "everything",
+        "order": 10
+      },
+      {
+        "rule": "Bun",
+        "icon": "SiBun",
+        "for": "everything",
+        "order": 11
+      },
+      {
+        "rule": "Cargo",
+        "icon": "FabRust",
+        "for": "everything",
+        "order": 12
+      },
+      {
+        "rule": "Cloud",
+        "icon": "RiCloudFill",
+        "for": "everything",
+        "order": 13
+      },
+      {
+        "rule": "Coding Challenges",
+        "icon": "RiCodeFill",
+        "for": "everything",
+        "order": 14
+      },
+      {
+        "rule": "Computer Science",
+        "icon": "FabDev",
+        "for": "everything",
+        "order": 15
+      },
+      {
+        "rule": "Continuos Integration",
+        "icon": "SiConventionalcommits",
+        "for": "everything",
+        "order": 16
+      },
+      {
+        "rule": "CSS",
+        "icon": "SiCss3",
+        "for": "everything",
+        "order": 17
+      },
+      {
+        "rule": "CV",
+        "icon": "SiAzureartifacts",
+        "for": "everything",
+        "order": 18
+      },
+      {
+        "rule": "DB",
+        "icon": "RiDatabase2Line",
+        "for": "everything",
+        "order": 19
+      },
+      {
+        "rule": "Debugging",
+        "icon": "RiSettingsLine",
+        "for": "everything",
+        "order": 20
+      },
+      {
+        "rule": "Design",
+        "icon": "FabSkyatlas",
+        "for": "everything",
+        "order": 21
+      },
+      {
+        "rule": "Development",
+        "icon": "FasDiagramProject",
+        "for": "everything",
+        "order": 22
+      },
+      {
+        "rule": "Docker",
+        "icon": "FabDocker",
+        "for": "everything",
+        "order": 23
+      },
+      {
+        "rule": "ESLint",
+        "icon": "RiBracesLine",
+        "for": "everything",
+        "order": 24
+      },
+      {
+        "rule": "Frameworks",
+        "icon": "LiFrame",
+        "for": "everything",
+        "order": 25
+      },
+      {
+        "rule": "Front end",
+        "icon": "FabCcDiscover",
+        "for": "everything",
+        "order": 26
+      },
+      {
+        "rule": "Gardening",
+        "icon": "RiPlantLine",
+        "for": "everything",
+        "order": 27
+      },
+      {
+        "rule": "GIT",
+        "icon": "LiGithub",
+        "for": "everything",
+        "order": 28
+      },
+      {
+        "rule": "Github",
+        "icon": "IbGithub",
+        "for": "everything",
+        "order": 29
+      },
+      {
+        "rule": "Go",
+        "icon": "FabGolang",
+        "for": "everything",
+        "order": 30
+      },
+      {
+        "rule": "Habits",
+        "icon": "FabAudible",
+        "for": "everything",
+        "order": 31
+      },
+      {
+        "rule": "IDEE",
+        "icon": "LiCode2",
+        "for": "everything",
+        "order": 32
+      },
+      {
+        "rule": "Important",
+        "icon": "FasExclamation",
+        "for": "everything",
+        "order": 33
+      },
+      {
+        "rule": "Interview",
+        "icon": "SiWorkplace",
+        "for": "everything",
+        "order": 34
+      },
+      {
+        "rule": "Javascript",
+        "icon": "FabJs",
+        "for": "everything",
+        "order": 34
+      },
+      {
+        "rule": "Java",
+        "icon": "FabJava",
+        "for": "everything",
+        "order": 36
+      },
+      {
+        "rule": "Jetbrain",
+        "icon": "SiJetbrains",
+        "for": "everything",
+        "order": 36
+      },
+      {
+        "rule": "Language",
+        "icon": "LiLanguages",
+        "for": "everything",
+        "order": 38
+      },
+      {
+        "rule": "Learning",
+        "icon": "FasSchool",
+        "for": "everything",
+        "order": 39
+      },
+      {
+        "rule": "Library",
+        "icon": "FasBook",
+        "for": "everything",
+        "order": 40
+      },
+      {
+        "rule": "Liquidbase",
+        "icon": "FasDatabase",
+        "for": "everything",
+        "order": 41
+      },
+      {
+        "rule": "Mac",
+        "icon": "RiMacbookFill",
+        "for": "everything",
+        "order": 42
+      },
+      {
+        "rule": "Motivation",
+        "icon": "LiGraduationCap",
+        "for": "everything",
+        "order": 43
+      },
+      {
+        "rule": "NestJS",
+        "icon": "FabNodeJs",
+        "for": "everything",
+        "order": 44
+      },
+      {
+        "rule": "NestJS",
+        "icon": "SiNestjs",
+        "for": "everything",
+        "order": 45
+      },
+      {
+        "rule": "Next.js",
+        "icon": "SiNextdotjs",
+        "for": "everything",
+        "order": 46
+      },
+      {
+        "rule": "nextjs",
+        "icon": "SiNextdotjs",
+        "for": "everything",
+        "order": 47
+      },
+      {
+        "rule": "nextjs",
+        "icon": "SiNextdotjs",
+        "for": "everything",
+        "order": 48
+      },
+      {
+        "rule": "Nodejs",
+        "icon": "FabNodeJs",
+        "for": "everything",
+        "order": 49
+      },
+      {
+        "rule": "Notes",
+        "icon": "FarNoteSticky",
+        "for": "everything",
+        "order": 50
+      },
+      {
+        "rule": "npm",
+        "icon": "FabNpm",
+        "for": "everything",
+        "order": 51
+      },
+      {
+        "rule": "ORM",
+        "icon": "LiDatabase",
+        "for": "everything",
+        "order": 52
+      },
+      {
+        "rule": "Pnpm",
+        "icon": "SiPnpm",
+        "for": "everything",
+        "order": 53
+      },
+      {
+        "rule": "Prisma",
+        "icon": "SiPrisma",
+        "for": "everything",
+        "order": 54
+      },
+      {
+        "rule": "Project",
+        "icon": "RiDeviceFill",
+        "for": "everything",
+        "order": 55
+      },
+      {
+        "rule": "Python",
+        "icon": "FabPython",
+        "for": "everything",
+        "order": 56
+      },
+      {
+        "rule": "React",
+        "icon": "FabReact",
+        "for": "everything",
+        "order": 57
+      },
+      {
+        "rule": "React Native",
+        "icon": "SiReact",
+        "for": "everything",
+        "order": 58
+      },
+      {
+        "rule": "Regex",
+        "icon": "LiRegex",
+        "for": "everything",
+        "order": 59
+      },
+      {
+        "rule": "ROADMAP",
+        "icon": "LiMap",
+        "for": "everything",
+        "order": 60
+      },
+      {
+        "rule": "Rust",
+        "icon": "SiRust",
+        "for": "everything",
+        "order": 61
+      },
+      {
+        "rule": "Rust",
+        "icon": "SiRust",
+        "for": "everything",
+        "order": 62
+      },
+      {
+        "rule": "Security",
+        "icon": "RiSecurePaymentFill",
+        "for": "everything",
+        "order": 63
+      },
+      {
+        "rule": "Senior Goal",
+        "icon": "FasGraduationCap",
+        "for": "everything",
+        "order": 64
+      },
+      {
+        "rule": "Styling",
+        "icon": "IbGraphicsAndDesign",
+        "for": "everything",
+        "order": 65
+      },
+      {
+        "rule": "Svelte",
+        "icon": "SiSvelteWhite",
+        "for": "everything",
+        "order": 66
+      },
+      {
+        "rule": "Swift",
+        "icon": "SiSwift",
+        "for": "everything",
+        "order": 67
+      },
+      {
+        "rule": "System structure",
+        "icon": "FasLayerGroup",
+        "for": "everything",
+        "order": 68
+      },
+      {
+        "rule": "Tailwind",
+        "icon": "SiTailwindcss",
+        "for": "everything",
+        "order": 69
+      },
+      {
+        "rule": "Testing",
+        "icon": "FasCarCrash",
+        "for": "everything",
+        "order": 70
+      },
+      {
+        "rule": "TODO",
+        "icon": "RiTimerLine",
+        "for": "everything",
+        "order": 71
+      },
+      {
+        "rule": "Troubles",
+        "icon": "FabAccessibleIcon",
+        "for": "everything",
+        "order": 72
+      },
+      {
+        "rule": "TSConfig",
+        "icon": "SiTypescriptWhite",
+        "for": "everything",
+        "order": 73
+      },
+      {
+        "rule": "Typescript",
+        "icon": "SiTypescript",
+        "for": "everything",
+        "order": 74
+      },
+      {
+        "rule": "VIM",
+        "icon": "SiVim",
+        "for": "everything",
+        "order": 75
+      },
+      {
+        "rule": "VsCode",
+        "icon": "SiVisualstudiocode",
+        "for": "everything",
+        "order": 76
+      },
+      {
+        "rule": "Workout",
+        "icon": "FasDumbbell",
+        "for": "everything",
+        "order": 77
+      },
+      {
+        "rule": "AWS",
+        "icon": "FabAws",
+        "for": "everything",
+        "order": 78
+      },
+      {
+        "rule": "aws",
+        "icon": "FabAws",
+        "for": "everything",
+        "order": 79
+      },
+      {
+        "rule": "Node.js",
+        "icon": "FabNodeJs",
+        "for": "everything",
+        "order": 80
+      },
+      {
+        "rule": "Express",
+        "icon": "SiExpress",
+        "for": "everything",
+        "order": 81
+      },
+      {
+        "rule": "3D",
+        "icon": "LiAxis3d",
+        "for": "everything",
+        "order": 82
+      },
+      {
+        "rule": "Babylon",
+        "icon": "LiScale3d",
+        "for": "everything",
+        "order": 83
+      },
+      {
+        "rule": "Ansible",
+        "icon": "SiAnsible",
+        "for": "everything",
+        "order": 84
+      },
+      {
+        "rule": "Linux",
+        "icon": "SiLinux",
+        "for": "everything",
+        "order": 85,
+        "useFilePath": true
+      },
+      {
+        "rule": "GNU Stow",
+        "icon": "SiGnu",
+        "for": "everything",
+        "order": 86
+      },
+      {
+        "rule": "Window",
+        "icon": "FarWindowRestore",
+        "for": "everything",
+        "order": 87
+      },
+      {
+        "rule": "Yabai",
+        "icon": "LiLayoutDashboard",
+        "for": "everything",
+        "order": 88
+      },
+      {
+        "rule": "Worktree",
+        "icon": "FasTree",
+        "for": "everything",
+        "order": 89
+      },
+      {
+        "rule": "Work",
+        "icon": "FabBlackTie",
+        "for": "everything",
+        "order": 90
+      },
+      {
+        "rule": "Tmux",
+        "icon": "SiTmux",
+        "for": "everything",
+        "order": 91
+      },
+      {
+        "rule": "bash",
+        "icon": "SiGnubash",
+        "for": "everything",
+        "order": 92
+      },
+      {
+        "rule": "Shell",
+        "icon": "SiShell",
+        "for": "everything",
+        "order": 93
+      },
+      {
+        "rule": "Bash",
+        "icon": "SiGnubash",
+        "for": "everything",
+        "order": 94
+      },
+      {
+        "rule": "cht.sh",
+        "icon": "LiSheet",
+        "for": "everything",
+        "order": 95
+      },
+      {
+        "rule": "Commands",
+        "icon": "IbCommand",
+        "for": "everything",
+        "order": 96
+      },
+      {
+        "rule": "Message",
+        "icon": "SiApachekafka",
+        "for": "everything",
+        "order": 97
+      },
+      {
+        "rule": "Kafka",
+        "icon": "SiApachekafka",
+        "for": "everything",
+        "order": 98
+      },
+      {
+        "rule": "Code Editors",
+        "icon": "FasCode",
+        "for": "everything",
+        "order": 99
+      },
+      {
+        "rule": "Threejs",
+        "icon": "SiThreedotjs",
+        "for": "everything",
+        "order": 100
+      },
+      {
+        "rule": "Network",
+        "icon": "LiNetwork",
+        "for": "everything",
+        "order": 101
+      },
+      {
+        "rule": "Config",
+        "icon": "LiEdit2",
+        "for": "everything",
+        "order": 102
+      },
+      {
+        "rule": "Web",
+        "icon": "FabInternetExplorer",
+        "for": "everything",
+        "order": 103
+      },
+      {
+        "rule": "HTTP",
+        "icon": "SiHandshakeProtocol",
+        "for": "everything",
+        "order": 104
+      },
+      {
+        "rule": "Archive",
+        "icon": "LiArchive",
+        "for": "everything",
+        "order": 105
+      },
+      {
+        "rule": "PC",
+        "icon": "RiComputerLine",
+        "for": "everything",
+        "order": 106
+      },
+      {
+        "rule": "C programming language",
+        "icon": "SiC",
+        "for": "everything",
+        "order": 107
+      },
+      {
+        "rule": "JSON",
+        "icon": "TiJson",
+        "for": "everything",
+        "order": 107
+      },
+      {
+        "rule": "Todoist",
+        "icon": "SiTodoist",
+        "for": "everything",
+        "order": 108
+      },
+      {
+        "rule": "Concepts",
+        "icon": "LiLightbulb",
+        "for": "everything",
+        "order": 109
+      },
+      {
+        "rule": "Infra",
+        "icon": "SiKubernetes",
+        "for": "everything",
+        "order": 110
+      },
+      {
+        "rule": "Kubernetes",
+        "icon": "SiKubernetes",
+        "for": "everything",
+        "order": 111
+      },
+      {
+        "rule": "Docker",
+        "icon": "SiDocker",
+        "for": "everything",
+        "order": 112
+      },
+      {
+        "rule": "Javascript",
+        "icon": "SiJavascript",
+        "for": "everything",
+        "order": 113
+      },
+      {
+        "rule": "Youtube",
+        "icon": "SiYoutube",
+        "for": "everything",
+        "order": 114
+      }
+    ],
+    "extraMargin": {
+      "top": -4,
+      "right": 5,
+      "bottom": -8,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Computer Science/Tasks.md": "SiTodoist",
+  "Computer Science/Cloud": "LiCloud",
+  "Computer Science/Cloud/AWS/Node": "FabNode"
+}

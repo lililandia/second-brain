@@ -1,1 +1,18 @@
-{}
+{
+  "accentColor": "#ffbb00",
+  "baseFontSize": 14,
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "readable-line-length",
+    "underline-style",
+    "blockquote"
+  ],
+  "textFontFamily": "JetBrains Mono,AurulentSansM Nerd Font Mono,BlexMono Nerd Font,CaskaydiaMono Nerd Font",
+  "theme": "moonstone",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,BlexMono Nerd Font,CaskaydiaCove Nerd Font Mono",
+  "baseFontSizeAction": false,
+  "monospaceFontFamily": "JetBrainsMono Nerd Font,BlexMono Nerd Font Mono",
+  "translucency": true,
+  "showRibbon": true,
+  "nativeMenus": true
+}

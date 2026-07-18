@@ -1,0 +1,25 @@
+{
+  "apiTokenSecretId": "swt-todoist-api-token",
+  "tokenStorage": "secrets",
+  "fadeToggle": true,
+  "autoRefreshToggle": true,
+  "autoRefreshInterval": 60,
+  "renderDateIcon": true,
+  "renderProjectIcon": true,
+  "renderLabelsIcon": true,
+  "shouldWrapLinksInParens": false,
+  "addTaskButtonAddsPageLink": "description",
+  "taskCreationDefaultDueDate": "tomorrow",
+  "taskCreationDefaultProject": {
+    "projectId": "6Rr462R7CMphFCFc",
+    "projectName": "Languages"
+  },
+  "taskCreationDefaultLabels": [],
+  "defaultAddTaskAction": "add",
+  "debugLogging": false,
+  "version": 1,
+  "renderDescription": true,
+  "renderDate": true,
+  "renderProject": true,
+  "renderLabels": true
+}

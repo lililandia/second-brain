@@ -1,0 +1,44 @@
+{
+  "aestheticStyle": "glass",
+  "menuCommands": [
+    {
+      "id": "cmenu-plugin:editor:toggle-strikethrough",
+      "name": "cMenu: Toggle strikethrough",
+      "icon": "strikethrough-glyph"
+    },
+    {
+      "id": "obsidian-kanban:create-new-kanban-board",
+      "name": "Kanban: Create new board",
+      "icon": "any-key"
+    },
+    {
+      "id": "table-editor-obsidian:table-control-bar",
+      "name": "Advanced Tables: Open table controls toolbar",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Shift"
+          ],
+          "key": "d"
+        }
+      ],
+      "icon": "codeblock-glyph"
+    },
+    {
+      "id": "obsidian-admonition:insert-callout",
+      "name": "Admonition: Insert Callout",
+      "icon": "any-key"
+    },
+    {
+      "id": "todoist-sync-plugin:add-task-page-description",
+      "name": "Todoist Sync: Add task with current page in task description",
+      "icon": "checkmark"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 7
+}
