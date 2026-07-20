@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ee8e652973a79df1",
+        "id": "8ef3f053fd98a85e",
         "type": "tabs",
         "children": [
           {
-            "id": "728eb33a58cbdf38",
+            "id": "7f047648a2e4c8d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universita/Disturbi del Neurosviluppo/Esercizi/fattori_protettivi_quiz.md",
+                "file": "Universita/Dist Ansia e Umore/250 Domande a Risposta Multipla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fattori_protettivi_quiz"
+              "title": "250 Domande a Risposta Multipla"
+            }
+          },
+          {
+            "id": "a2d5cab5aae4ef27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universita/Dist Ansia e Umore/ansia_e_umore_quiz_neuro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ansia_e_umore_quiz_neuro"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,12 +186,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "a058449825a576ee",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -195,8 +221,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "728eb33a58cbdf38",
+  "active": "a2d5cab5aae4ef27",
   "lastOpenFiles": [
+    "Utilizzare AI.md",
+    "Universita/Dist Ansia e Umore/ansia_e_umore_quiz_neuro.md",
+    "Universita/Dist Ansia e Umore/250 Domande a Risposta Multipla.md",
+    "Universita/Dist Ansia e Umore/Riassunto Dispensa completa di disturbi d'ansia e dell'umore.md",
+    "Universita/Dist Ansia e Umore/Domande_151_200.md",
+    "Universita/Dist Ansia e Umore/Domande_101_150.md",
+    "Universita/Dist Ansia e Umore/Domande_1_50.md",
+    "Universita/Dist Ansia e Umore/Domande_201_250.md",
+    "Universita/Dist Ansia e Umore/Domande_51_100.md",
+    "Esame Disturbi d'Ansia e dell'umore.md",
+    "Dispensa completa di disturbi d’ansia e dell’umore.pdf",
+    "Universita/Dist Ansia e Umore",
+    "Universita/Disturbi del Neurosviluppo/Esercizi/fattori_.md",
+    "Senza nome",
     "Universita/Disturbi del Neurosviluppo/Fattori Protettivi.md",
     "Universita/argo.md",
     "Universita"
